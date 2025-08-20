@@ -27,19 +27,18 @@ This **RPA Bot** automates **daily stock market reporting**. It scrapes live sto
 ## 🖼️ Project Screenshots & Demo  
 
 **1. Workflow Overview (UiPath Studio)**  
-![Workflow Diagram](.screenshots/workflow_diagram.png)  
+![Workflow Diagram](<img width="922" height="697" alt="image" src="https://github.com/user-attachments/assets/e02e11a3-1735-4f4f-91a7-d02a6485b3d5" />
+)  
 
 **2. Excel Logging Example**  
 ![Excel Log](.screenshots/<img width="504" height="463" alt="image" src="https://github.com/user-attachments/assets/ea75c366-9207-4a65-9b98-b3719ce245f5" />
 )  
 
 **3. Email Notification Example**  
-![Email Alert](![Uploading image.png…]()
+![Email Alert](<img width="1913" height="718" alt="image" src="https://github.com/user-attachments/assets/aad2332a-d149-45aa-9e48-8e9e75253463" />
+
 )  
-
-**4. Bot in Action (GIF)**  
-![Bot Running](.screenshots/bot_demo.gif)  
-
+ 
 ---
 
 ## 🛠️ Tech Stack  
