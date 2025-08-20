@@ -30,10 +30,12 @@ This **RPA Bot** automates **daily stock market reporting**. It scrapes live sto
 ![Workflow Diagram](.screenshots/workflow_diagram.png)  
 
 **2. Excel Logging Example**  
-![Excel Log](.screenshots/excel_log.png)  
+![Excel Log](.screenshots/<img width="504" height="463" alt="image" src="https://github.com/user-attachments/assets/ea75c366-9207-4a65-9b98-b3719ce245f5" />
+)  
 
 **3. Email Notification Example**  
-![Email Alert](.screenshots/email_alert.png)  
+![Email Alert](![Uploading image.png…]()
+)  
 
 **4. Bot in Action (GIF)**  
 ![Bot Running](.screenshots/bot_demo.gif)  
