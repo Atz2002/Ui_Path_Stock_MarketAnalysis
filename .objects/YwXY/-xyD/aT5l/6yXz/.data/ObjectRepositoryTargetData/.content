@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4rxYZN5OCkSeb1FAVCoo4g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com" CVScreenId="3dbd4e8a-6e90-4e36-a374-0e648b67b18c" CvTextArea="270, 629, 33, 17" CvTextArgument="ttat" CvType="Text" DesignTimeRectangle="217, 613, 815, 50" FullSelectorArgument="&lt;webctrl id='ybar-search-box-container' tag='DIV' /&gt;" Guid="06006333-72d5-472c-9fa3-6a5c7308e1a3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Yahoo Finance - Stock Market Live, Quotes, Business &amp;amp; Finance News' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3497d151751ef3596b221f81c0d21583.png" xmlns="">0Fic9rZWmJEaLDWpTz1hPwQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

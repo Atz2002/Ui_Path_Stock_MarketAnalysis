@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gunSnZNGnU2NupWrnTfojQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/quote/ELCIDIN.BO" CVScreenId="6ae8f56f-c0a0-46ea-ba4e-72f0f4e70d6b" CvType="AnyWordGroup" DesignTimeRectangle="239, 398, 207, 50" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='main-content-wrapper' tag='SPAN' type='' class='up1 yf-ipw1h0 base' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="b7387730-4f64-40eb-8503-4015e0bf2408" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ELCID INVESTMENTS LTD. (ELCIDIN.BO) Stock Price, News, Quote &amp;amp; History - Yahoo Finance' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="9, 326, 200, 425" ElementType="List" FullSelectorArgument="&lt;webctrl aria-role='menubar' tag='UL' /&gt;" Guid="2f05858c-1734-4d85-b88e-11d8da440318" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0127cec2d896bc1d8289c83cc369e91d.png" xmlns="">0nyXcREg-60yRGwf6f5nVqw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

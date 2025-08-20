@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Conversations",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "wYgu3QGHO0y1bU2ZdlDyUw",
+  "Reference": "mQhWG8I76kqgUmEblpBlcQ/wYgu3QGHO0y1bU2ZdlDyUw",
+  "ParentRef": "mQhWG8I76kqgUmEblpBlcQ/aT5lIk9gxE6FApV4iKz7LQ",
+  "Created": "2025-08-18T12:25:09.9759594Z",
+  "Updated": "2025-08-18T12:25:09.9759594Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

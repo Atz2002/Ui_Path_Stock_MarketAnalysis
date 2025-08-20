@@ -1,0 +1,14 @@
+﻿{
+  "Name": "BUTTON ybar-search",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "uvvCj9CGpk6X6epMCZ2o2w",
+  "Reference": "mQhWG8I76kqgUmEblpBlcQ/uvvCj9CGpk6X6epMCZ2o2w",
+  "ParentRef": "mQhWG8I76kqgUmEblpBlcQ/DiVBPO8OIkSPQE4XZSXn9Q",
+  "Created": "2025-08-18T14:20:22.2933876Z",
+  "Updated": "2025-08-18T14:20:22.2933876Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

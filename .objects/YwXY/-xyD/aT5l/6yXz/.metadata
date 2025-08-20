@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Search query ttat No ma…",
+  "Type": "Element",
+  "Id": "6yXzERX9t06SO4TJNiB9cg",
+  "Reference": "mQhWG8I76kqgUmEblpBlcQ/6yXzERX9t06SO4TJNiB9cg",
+  "ParentRef": "mQhWG8I76kqgUmEblpBlcQ/aT5lIk9gxE6FApV4iKz7LQ",
+  "Created": "2025-08-18T12:10:06.7206944Z",
+  "Updated": "2025-08-18T12:10:06.7206944Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
